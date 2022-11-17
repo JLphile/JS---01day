@@ -178,21 +178,21 @@ diagram designer
 - C： userName
 - D： _age
 
-#### 2.下列有关字符串变量定义正确的是(AB) 多选题】
+#### 2.下列有关字符串变量定义正确的是(AB) 【多选题】
 
 - A： let strMsg = "我爱北京天安门"
 - B： let strMsg2 = '我爱吃猪蹄'
 - C： let strMsg3 = 我爱大肘子
 - D： let strMsg4 = '我是'高帅富'程序猿'
 
-#### 3. 下面那些是字面量？() 可以多选 【多选题】
+#### 3. 下面那些是字面量？(ABCD) 可以多选 【多选题】
 
 - A: 123
 - B: '大肘子'
 - C: ture
 - D: []
 
-#### 4. JavaScript由以下哪几部分组成 ( ) 多选 【多选题】
+#### 4. JavaScript由以下哪几部分组成 ( BCD) 多选 【多选题】
 
 - A: JScript
 - B: ECMAScript
@@ -200,7 +200,7 @@ diagram designer
 - D: BOM
 - E: Object
 
-#### 5.下面不属于JavaScript数据类型的是？ ( )
+#### 5.下面不属于JavaScript数据类型的是？ ( D)
 
 - A、number
 - B、string
@@ -208,91 +208,91 @@ diagram designer
 - D、int
 - E、undefined
 
-#### 6.在js代码中，'123'+ 4 的运行结果是
+#### 6.在js代码中，'123'+ 4 的运行结果是（B）
 
 - A:127
 - B:'1234' 字符串型
 - C:1234 数字型
 - D:'123'4
 
-#### 7.请选出下面正确的答案？()
+#### 7.请选出下面正确的答案？(B)
 
 - A: console.log(typeof '1') // 返回结果是 number
-- B: console.log(typeof ’1‘ + 1) // 返回结果是 string1
-- C: console.log( ’1‘ - 1) // 返回结果是 11
+- B: console.log(typeof '1' + 1) // 返回结果是 string1
+- C: console.log( '1'- 1) // 返回结果是 11
 - D: console.log('pink' + 1) // 返回结果是 string
 
-#### 8.下列有关javascript变量命名说法错误的是
+#### 8.下列有关javascript变量命名说法错误的是(C)
 
 - A:变量名不能是关键字比如 let 、var、if 等
 - B: 变量名是区分大小写的
 - C:变量名可以由数字、字母、下划线、$组成，可以以数字开头
 - D:变量名建议使用驼峰命名法
 
-#### 9.请问 console.log(typeof +'136') 输出的结果是？
+#### 9.请问 console.log(typeof +'136') 输出的结果是？(B)
 
 - A： 136
 - B： number
 - C： NaN
 - D： string
 
-#### 10.请问 console.log(NaN + 1) 输出的结果是？
+#### 10.请问 console.log(NaN + 1) 输出的结果是？(C)
 
 - A: 1
 - B： 报错
 - C： NaN
 - D： undefined
 
-#### 11.今日单词1： 请问页面文档输出的语句是？
+#### 11.今日单词1： 请问页面文档输出的语句是？(C)
 
 - A:prompt()
 - B:alert()
 - C: document.write()
 - D:console.log()
 
-#### 12.今日单词2： 请问控制台打印输出的语句是？
+#### 12.今日单词2： 请问控制台打印输出的语句是？(D)
 
 - A:prompt()
 - B:alert()
 - C:document.write()
 - D:console.log()
 
-#### 13.今日单词3： 请问页面弹出警示框语句是？
+#### 13.今日单词3： 请问页面弹出警示框语句是？(B)
 
 - A:prompt()
 - B: alert()
 - C: document.write()
 - D:console.log()
 
-#### 14.今日单词4： 请问页面弹出输入框语句是？
+#### 14.今日单词4： 请问页面弹出输入框语句是？(A)
 
 - A: prompt()
 - B: alert()
 - C: document.write()
 - D: console.log()
 
-#### 15.今日单词5： 请问数据类型转换中，转换为数字型的语句是？
+#### 15.今日单词5： 请问数据类型转换中，转换为数字型的语句是？(A)
 
 - A:Number()
 - B:number()
 - C:String()
 - D:Boolean()
 
-#### 16.今日单词6： 请问检测数据类型的语句是？
+#### 16.今日单词6： 请问检测数据类型的语句是？(C)
 
 - A:type
 - B:Number()
 - C:typeof
 - D: script
 
-#### 17.今日单词7： 请问定义常量的关键字是？
+#### 17.今日单词7： 请问定义常量的关键字是？(C)
 
 - A: let
 - B: var
 - C:const
 - D: function
 
-#### 18.今日单词8： 请问不能转换为数字型的是？
+#### 18.今日单词8： 请问不能转换为数字型的是？(D)
 
 - A: Number()
 
@@ -306,7 +306,15 @@ diagram designer
 
   
 
- 
+###  8.编程题
 
+- 8.1 获取用户信息
+  - 依次询问并获取用户的姓名 年龄 性别 收集数据之后在控制台依次打印出来
 
+- 8.2 增加年龄
+  - 询问用户年龄，用户输入年龄后，把用户输入的年龄加5岁
+  - 增加5岁后，通过弹出框提示用户“据我估计，五年后，你可能XX岁了”
+- 8.3计算银行卡余额案例
+  - 用户输入总的银行卡余额，依次输入本月花费的电费，水费，网费
+  - 页面打印一个表格，计算出本月银行卡还剩下的余额
 
