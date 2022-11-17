@@ -171,152 +171,140 @@ diagram designer
 
 ### 7.练习题
 
-*****1. 下列定义的变量名中，不合法的是 (A)
+#### 1. 下列定义的变量名中，不合法的是 (A)
 
-- A： 2age
+- **A： 2age**
 - B： newClass
 - C： userName
 - D： _age
-- 
 
-*****2. 下列有关字符串变量定义正确的是(AB) 可以多选~~~ 【多选题】
+#### 2.下列有关字符串变量定义正确的是(AB) 多选题】
 
 - A： let strMsg = "我爱北京天安门"
 - B： let strMsg2 = '我爱吃猪蹄'
 - C： let strMsg3 = 我爱大肘子
 - D： let strMsg4 = '我是'高帅富'程序猿'
-- 
 
-*****3. 下面那些是字面量？() 可以多选 【多选题】
+#### 3. 下面那些是字面量？() 可以多选 【多选题】
 
 - A: 123
 - B: '大肘子'
 - C: ture
 - D: []
-- 
 
-*****4. JavaScript由以下哪几部分组成 ( ) 多选 【多选题】
+#### 4. JavaScript由以下哪几部分组成 ( ) 多选 【多选题】
 
 - A: JScript
 - B: ECMAScript
 - C: DOM
 - D: BOM
 - E: Object
-- 
 
-*****5. 下面不属于JavaScript数据类型的是？ ( )
+#### 5.下面不属于JavaScript数据类型的是？ ( )
 
 - A、number
 - B、string
 - C、boolean
 - D、int
 - E、undefined
-- 
 
-*****6. 在js代码中，'123'+ 4 的运行结果是
+#### 6.在js代码中，'123'+ 4 的运行结果是
 
 - A:127
 - B:'1234' 字符串型
 - C:1234 数字型
 - D:'123'4
-- 
 
-*****7. 请选出下面正确的答案？()
+#### 7.请选出下面正确的答案？()
 
 - A: console.log(typeof '1') // 返回结果是 number
 - B: console.log(typeof ’1‘ + 1) // 返回结果是 string1
 - C: console.log( ’1‘ - 1) // 返回结果是 11
 - D: console.log('pink' + 1) // 返回结果是 string
-- 
 
-*****8. 下列有关javascript变量命名说法错误的是
+#### 8.下列有关javascript变量命名说法错误的是
 
 - A:变量名不能是关键字比如 let 、var、if 等
 - B: 变量名是区分大小写的
 - C:变量名可以由数字、字母、下划线、$组成，可以以数字开头
 - D:变量名建议使用驼峰命名法
-- 
 
-*****9. 请问 console.log(typeof +'136') 输出的结果是？
+#### 9.请问 console.log(typeof +'136') 输出的结果是？
 
 - A： 136
 - B： number
 - C： NaN
 - D： string
-- 
 
-*****10. 请问 console.log(NaN + 1) 输出的结果是？
+#### 10.请问 console.log(NaN + 1) 输出的结果是？
 
 - A: 1
 - B： 报错
 - C： NaN
 - D： undefined
-- 
 
-*****11. 今日单词1： 请问页面文档输出的语句是？
+#### 11.今日单词1： 请问页面文档输出的语句是？
 
 - A:prompt()
 - B:alert()
 - C: document.write()
 - D:console.log()
-- 
 
-*****12.今日单词2： 请问控制台打印输出的语句是？
+#### 12.今日单词2： 请问控制台打印输出的语句是？
 
 - A:prompt()
 - B:alert()
 - C:document.write()
 - D:console.log()
-- 
 
-*****13.今日单词3： 请问页面弹出警示框语句是？
+#### 13.今日单词3： 请问页面弹出警示框语句是？
 
 - A:prompt()
 - B: alert()
 - C: document.write()
 - D:console.log()
-- 
 
-*****14.今日单词4： 请问页面弹出输入框语句是？
+#### 14.今日单词4： 请问页面弹出输入框语句是？
 
 - A: prompt()
 - B: alert()
 - C: document.write()
 - D: console.log()
-- 
 
-*****15. 今日单词5： 请问数据类型转换中，转换为数字型的语句是？
+#### 15.今日单词5： 请问数据类型转换中，转换为数字型的语句是？
 
 - A:Number()
 - B:number()
 - C:String()
 - D:Boolean()
-- 
 
-*****16. 今日单词6： 请问检测数据类型的语句是？
+#### 16.今日单词6： 请问检测数据类型的语句是？
 
 - A:type
 - B:Number()
 - C:typeof
 - D: script
-- 
 
-*****17. 今日单词7： 请问定义常量的关键字是？
+#### 17.今日单词7： 请问定义常量的关键字是？
 
 - A: let
 - B: var
 - C:const
 - D: function
-- 
 
-*****18.今日单词8： 请问不能转换为数字型的是？
+#### 18.今日单词8： 请问不能转换为数字型的是？
 
 - A: Number()
+
 - B: parseInt()
+
 - C: parseFloat()
+
 - D: Boolean()
+
 - E: +
-- 
+
+  
 
  
 
